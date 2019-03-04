@@ -1,0 +1,2 @@
+# obzqure
+personal project
